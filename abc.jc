@@ -1,0 +1,9 @@
+result": [
+"contractAddress": "0x...",
+"tokenName": "Token Name",
+"symbol": "Token Symbol",
+"divisor": "18",
+"tokenType": "ERC20",
+"totalSupply": "10000000|
+]
+]
